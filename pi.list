@@ -1,0 +1,6 @@
+# NAME: PI
+DOMAIN-SUFFIX,minepi.com
+DOMAIN-SUFFIX,socialchain.app
+DOMAIN-SUFFIX,pi.app
+DOMAIN-SUFFIX,pinet.com
+IP-CIDR,141.193.213.0/24,no-resolve
